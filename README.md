@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GiorgioDalla
 - 👀 I’m interested in blockchain development and decentralisation...
-- 🌱 I’m currently learning solidity...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning solidity and javascript
+- 💞️ I’m looking to collaborate on blockchain development projects
 - 📫 How to reach me on twitter @GiorgioDallaG 
 
 <!---
