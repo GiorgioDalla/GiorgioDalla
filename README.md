@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @GiorgioDalla
 - 👀 I’m interested in blockchain development and decentralisation...
-- 🌱 I’m currently learning solidity and javascript
-- 💞️ I’m looking to collaborate on blockchain development projects
+- 🌱 I’m currently building with solidity and javascript
 - 📫 How to reach me on twitter @GiorgioDallaG 
+- 
 
 <!---
 GiorgioDalla/GiorgioDalla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
