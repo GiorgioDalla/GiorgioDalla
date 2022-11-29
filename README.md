@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GiorgioDalla
 - 👀 I’m interested in blockchain development and decentralisation...
-- 🌱 I’m currently building with solidity and javascript
+- 🌱 I’m currently building with solidity and javascript using hardhat and nextjs frameworks
 - 📫 How to reach me on twitter @GiorgioDallaG 
 - 
 
