@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @GiorgioDalla
-- 👀 I’m interested in blockchain development and decentralisation...
-- 🌱 I’m currently building with solidity and javascript using hardhat and nextjs framework 
+- 👀 I’m interested in blockchain development.
+- 🌱 I’m currently focusing on smart contract security
+- 
 
 
 <!---
