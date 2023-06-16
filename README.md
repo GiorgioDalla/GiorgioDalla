@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GiorgioDalla
 - 👀 I’m interested in blockchain development.
 - 🌱 I’m currently focusing on smart contract security
--  https://cv-page-giorgiodalla.vercel.app/
 
 
 <!---
